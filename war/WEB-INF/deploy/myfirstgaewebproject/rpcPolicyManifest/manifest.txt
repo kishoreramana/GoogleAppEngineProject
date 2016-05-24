@@ -1,0 +1,3 @@
+# Module myfirstgaewebproject
+# RPC service class, partial path of RPC policy file
+com.kishore.cloud.service.firstwebproject.client.GreetingService, DDCAD48DCE16D57FBA9E7EF057CE2C60.gwt.rpc

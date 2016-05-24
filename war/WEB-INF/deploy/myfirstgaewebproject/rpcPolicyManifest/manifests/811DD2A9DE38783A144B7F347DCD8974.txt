@@ -1,0 +1,2 @@
+serviceClass: com.kishore.cloud.service.firstwebproject.client.GreetingService
+path: DDCAD48DCE16D57FBA9E7EF057CE2C60.gwt.rpc
